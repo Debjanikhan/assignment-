@@ -1,0 +1,33 @@
+body{
+    background-color:lightslategray;
+
+    background-position:center;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    color:rgba(0, 0, 0, 0.675);
+    text-align:center;
+    height: 20px;
+    width:300px;
+}
+.container{
+    height:250px;
+    width:350px;
+    background-color:whitesmoke;
+    position:absolute;
+    top:25%;
+    left:35%;
+    padding-top: 70px;
+    padding-bottom: 5px;
+    text-align: center;
+
+}
+.button{
+    background-color:rgba(0, 0, 255, 0.716);
+    border:none;
+    color:white;
+    padding:5px 25px;
+    text-align:center;
+    display:inline-block;
+}
